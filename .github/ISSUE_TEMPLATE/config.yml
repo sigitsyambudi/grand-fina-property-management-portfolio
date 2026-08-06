@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Project documentation
+    url: https://github.com/sigitsyambudi/grand-fina-property-management#documentation-index
+    about: Review the architecture, setup, security, and contribution guidance before opening an issue.
+  - name: Security guidance
+    url: https://github.com/sigitsyambudi/grand-fina-property-management/blob/main/docs/security.md
+    about: Do not disclose credentials, personal data, or vulnerability details in a public issue.
