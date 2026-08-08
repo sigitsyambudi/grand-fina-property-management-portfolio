@@ -62,6 +62,18 @@ Database validation requires a running disposable local Supabase environment. Th
 
 Private-derived and stale screenshots were intentionally removed during portfolio sanitization. New screenshots should be captured only from a running local instance loaded with the fictional portfolio dataset.
 
+| Secure login                                           | Operations dashboard                                    |
+| ------------------------------------------------------ | ------------------------------------------------------- |
+| ![Grand Fina secure login](docs/screenshots/login.png) | ![Grand Fina dashboard](docs/screenshots/dashboard.png) |
+
+| Room management                                           | Tenant management                                             |
+| --------------------------------------------------------- | ------------------------------------------------------------- |
+| ![Grand Fina room management](docs/screenshots/rooms.png) | ![Grand Fina tenant management](docs/screenshots/tenants.png) |
+
+| Financial reporting                                                       | Management reports                                  |
+| ------------------------------------------------------------------------- | --------------------------------------------------- |
+| ![Grand Fina financial reporting](docs/screenshots/financial_reports.png) | ![Grand Fina reports](docs/screenshots/reports.png) |
+
 ## Documentation
 
 - [Architecture](docs/architecture.md)
